@@ -5,7 +5,8 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 
-<p align="center">I have been working in the education field for 16 years as a teacher and I have decided to go for a career change.  My passions are many and my prides are few, but I do love my family and value education above all else. </p>
+<p align="center">I have been working in the education field for 16 years as a teacher and I have decided to go for a career change. </p>
+<p align="center">My passions are many and my prides are few, but I do love my family and value education above all else. </p>
 
 <p align="center">My skills and projects are constantly growing and this page will attempt to highlight developments in these areas.</p>
 
