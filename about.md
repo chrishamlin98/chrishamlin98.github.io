@@ -11,7 +11,7 @@ layout: page
 
 <h2>Skills</h2>
 
-<ul class="skill-list">
+<ul>
 	<li>Java 8.0 (Eclipse)<li>
 	<li>HTML</li>
 	<li>CSS</li>
