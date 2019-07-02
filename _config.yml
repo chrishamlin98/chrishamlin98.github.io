@@ -14,9 +14,9 @@ picture: assets/images/IMG_0043.JPG
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: 
+resume-url:
 
-#url: https://koppl.in/indigo
+#url: https://githut.io.chrishamlin98
 your url: http://github.io/chrishamlin98
 
 permalink: /:title/

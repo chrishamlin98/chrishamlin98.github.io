@@ -20,9 +20,3 @@ layout: page
 	<li>HTML</li>
 	<li>CSS</li>
 </ul>
-
-<h2>Projects</h2>
-
-<ul>
-	<li>Student Sorter ( REFERENCE NEEDED ONCE COMPLETE )</li>
-</ul>
