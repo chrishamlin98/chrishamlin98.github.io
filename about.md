@@ -12,12 +12,13 @@ layout: page
 <h2>Skills</h2>
 
 <ul>
-	<li>Java 8.0 (Eclipse)</li>
-	<li>HTML</li>
-	<li>CSS</li>
-	<li>CSS Frameworks (Bootstrap)</li>
+	<li>(IDE) Eclipse, Atom</li>
+	<li>Git for Windows</li>
+	<li>Java 8.0</li>
 	<li>MySQL</li>
 	<li>XAMPP</li>
+	<li>HTML</li>
+	<li>CSS</li>
 </ul>
 
 <h2>Projects</h2>
