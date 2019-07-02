@@ -12,7 +12,7 @@ layout: page
 <h2>Skills</h2>
 
 <ul>
-	<li>Java 8.0 (Eclipse)<li>
+	<li>Java 8.0 (Eclipse)</li>
 	<li>HTML</li>
 	<li>CSS</li>
 	<li>CSS Frameworks (Bootstrap)</li>
