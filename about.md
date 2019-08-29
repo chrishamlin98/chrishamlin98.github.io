@@ -19,4 +19,5 @@ layout: page
 	<li>XAMPP</li>
 	<li>HTML</li>
 	<li>CSS</li>
+	<li>TOMCAT with JavaAPI</li>
 </ul>
