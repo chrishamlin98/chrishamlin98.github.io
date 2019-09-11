@@ -1,6 +1,6 @@
 ---
-title: About
 layout: page
+title: About
 ---
 
 {% comment %} Change all of this to fit projects and include a button to view the code and
