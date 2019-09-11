@@ -15,3 +15,7 @@ include the code. /*
 {% highlight html %}
 <span class="evidence">Paragraphs can be written like so. A paragraph is the basic block of Markdown. A paragraph is what text will turn into when there is no reason it should become anything else.</span>
 {% endhighlight %}
+
+{% highlight html %}
+<div class="breaker">>Paragraphs can be written like so. A paragraph is the basic block of Markdown. A paragraph is what text will turn into when there is no reason it should become anything else.</div>
+{% endhighlight %}
