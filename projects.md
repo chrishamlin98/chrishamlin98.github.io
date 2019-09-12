@@ -9,3 +9,7 @@ a button to see the project in some sort of working order.  In the beginning jus
 include the code. /*
 
 <h1><paper-button>Click Me</paper-button></h1>
+
+Lorem ipsum dolor sit amet.
+
+{% include button.html url="http://www.google.com" %}
