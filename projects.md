@@ -10,4 +10,4 @@ include the code. /*
 
 <h1><paper-button>Click Me</paper-button></h1>
 
-Lorem [ipsum]{% include button.html url="http://www.google.com" %}dolor sit amet.
+Lorem [ipsum]dolor sit amet.
