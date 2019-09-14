@@ -10,4 +10,4 @@ include the code. /*
 
 <h1><paper-button>Click Me</paper-button></h1>
 
-Lorem [ipsum]dolor sit amet.
+[Click me](http://www.google.com){: .btn}
