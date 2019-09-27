@@ -9,5 +9,3 @@ a button to see the project in some sort of working order.  In the beginning jus
 include the code. /*
 
 <h1><paper-button>Click Me</paper-button></h1>
-
-[Click me](http://www.google.com){: .btn}
