@@ -8,4 +8,4 @@ layout: page
 a button to see the project in some sort of working order.  In the beginning just
 include the code. /*
 
-<h1><paper-button>Click Me</paper-button></h1>
+<h1>Click Me</h1>
