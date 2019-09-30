@@ -28,7 +28,7 @@ if (isAwesome){
 
 ### 3. Support the selection of appropriate statistical tools and techniques
 
-<img src="assets/images/dummy_thumbnail.jpg?raw=true"/>
+![Image of Stat Tools](https://github.com/chrishamlin98/chrishamlin98.github.io/blob/master/assets/images/dummy_thumbnail.jpg?raw=true)
 
 ### 4. Provide a basis for further data collection through surveys or experiments
 
