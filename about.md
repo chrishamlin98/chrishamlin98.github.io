@@ -15,6 +15,8 @@ layout: page
 	<li>(IDE) Eclipse, Atom</li>
 	<li>Git for Windows</li>
 	<li>Java 8.0</li>
+	<li>Java Swing Utilities</li>
+	<li>Java JDBC Integration</li>
 	<li>MySQL</li>
 	<li>XAMPP</li>
 	<li>HTML</li>
