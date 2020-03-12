@@ -10,12 +10,12 @@ layout: page
 
 ### Code
 
-* **[Application]** (https://raw.githubusercontent.com/chrishamlin98/Class-Sorter-MCV/master/src/classSorter/app/Application.java)
-* **[Model]** (https://raw.githubusercontent.com/chrishamlin98/Class-Sorter-MCV/master/src/classSorter/dataModel/Model.java)
-   * _**[Complete list of classes]**_ (https://github.com/chrishamlin98/Class-Sorter-MCV/tree/master/src/classSorter/dataModel)
-* **[Viewer]** (https://raw.githubusercontent.com/chrishamlin98/Class-Sorter-MCV/master/src/classSorter/viewer/View.java)
-   * _**[Complete list of classes]**_ (https://github.com/chrishamlin98/Class-Sorter-MCV/tree/master/src/classSorter/viewer)
-* **[Controller]** (https://raw.githubusercontent.com/chrishamlin98/Class-Sorter-MCV/master/src/classSorter/controller/Controller.java)
+- **[Application]** (https://raw.githubusercontent.com/chrishamlin98/Class-Sorter-MCV/master/src/classSorter/app/Application.java)
+- **[Model]** (https://raw.githubusercontent.com/chrishamlin98/Class-Sorter-MCV/master/src/classSorter/dataModel/Model.java)
+   - _**[Complete list of classes]**_ (https://github.com/chrishamlin98/Class-Sorter-MCV/tree/master/src/classSorter/dataModel)
+- **[Viewer]** (https://raw.githubusercontent.com/chrishamlin98/Class-Sorter-MCV/master/src/classSorter/viewer/View.java)
+   - _**[Complete list of classes]**_ (https://github.com/chrishamlin98/Class-Sorter-MCV/tree/master/src/classSorter/viewer)
+- **[Controller]** (https://raw.githubusercontent.com/chrishamlin98/Class-Sorter-MCV/master/src/classSorter/controller/Controller.java)
 
 ### Something else
 
