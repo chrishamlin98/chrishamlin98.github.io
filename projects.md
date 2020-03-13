@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
+![Coding Set-Up](https://github.com/chrishamlin98/chrishamlin98.github.io/blob/master/assets/images/Coding_Screenshot.jpg?raw=true)
 
 ## Swing GUI Log-In
 
