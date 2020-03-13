@@ -7,7 +7,7 @@ description: Are you.. looking at me?... Is he looking at me.. I think he's look
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
+external-image: true
 picture: assets/images/IMG_0043.JPG
 
 # If you want to include your resume, set to true
@@ -17,7 +17,7 @@ resume-external: false
 resume-url:
 
 #url: https://githut.io.chrishamlin98
-your url: http://github.io/chrishamlin98
+your url: http://chrishamlin98.github.io
 
 permalink: /:title/
 
@@ -57,7 +57,7 @@ authors:
     chrishamlin:
         name: Chris Hamlin
         bio: A man with a passion for problem solving
-        external-image: false
+        external-image: true
         picture: assets/images/Coding_Screenshot.jpg
       #  twitter: johndoe
 #    jamesfoster:
