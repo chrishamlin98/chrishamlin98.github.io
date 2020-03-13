@@ -7,7 +7,7 @@ description: Are you.. looking at me?... Is he looking at me.. I think he's look
 
 # if it's an external image, update below for true
 # better with square images
-external-image: true
+external-image: false
 picture: assets/images/IMG_0043.JPG
 
 # If you want to include your resume, set to true
@@ -78,7 +78,7 @@ width: normal
 
 # if you don't need projects, comment the *projects* configs below
 projects: true
-picture: assets/images/Coding_Screenshot.jpg
+# picture: assets/images/Coding_Screenshot.jpg
 
 # if you don't need "about" or "blog", comment them out below
 about: true
