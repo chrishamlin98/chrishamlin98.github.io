@@ -14,7 +14,7 @@ picture: assets/images/IMG_0043.JPG
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: https://github.com/chrishamlin98/chrishamlin98.github.io/blob/master/assets/images/resume.pdf
+resume-url: assets/images/resume.pdf
 
 #url: https://githut.io.chrishamlin98
 your url: http://github.io/chrishamlin98
