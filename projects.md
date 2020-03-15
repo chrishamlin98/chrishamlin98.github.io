@@ -6,6 +6,7 @@ layout: page
 
 ![Coding Set-Up](https://github.com/chrishamlin98/chrishamlin98.github.io/blob/master/assets/images/Coding_Screenshot.jpg?raw=true)
 
+
 ## Swing GUI Log-In
 
   **Project Description:**  I designed this program for users to create user names and passwords in order to gain access to a database.  Further, it has been created using a model-view-controller (MVC) data structure and takes advantage of the use of database access objects (DAO) and a DAO Factory pattern in order to allow the integration of multiple database types.
