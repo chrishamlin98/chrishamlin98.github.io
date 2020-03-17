@@ -47,6 +47,27 @@ layout: page
   </div>
 </div>  
 
+## Portfolio Website
+
+**Project Description**  In order to create an on-line portfolio I used the Jekyll framework written in Ruby hosted via GitHub.  During this process I learned how to code HTML and CSS basics in order to present a product whose goal is simple elegance.
+
+<div class="grid">
+  <div class="col-1-2">
+    <div class="content">
+      <ul>
+        <li><a href="https://github.com/chrishamlin98/chrishamlin98.github.io">Complete Code</a></li>
+        <li><a href="https://raw.githubusercontent.com/chrishamlin98/chrishamlin98.github.io/master/_config.yml">Configs File</a></li>
+        <li><a href="https://raw.githubusercontent.com/chrishamlin98/chrishamlin98.github.io/master/about.md">About Me Page</a></li>
+        <li><a href="https://raw.githubusercontent.com/chrishamlin98/chrishamlin98.github.io/master/projects.md">Projects Page</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="col-1-2">
+    <div class="content">
+      <p><img src="/assets/images/port_code.png" alt="Portfoilo Example"></p>
+    </div>
+  </div>
+</div>
 
 ## Masters Degree in Educational Leadership
 
