@@ -59,7 +59,7 @@ layout: page
   </div>
   <div class="col-1-2">
     <div class="content">
-      <p><img src="/assets/images/MVC_app.png" alt="RPS app"></p>
+      <p><img src="/assets/images/RPS App.png" alt="RPS app"></p>
     </div>
   </div>
 </div>
