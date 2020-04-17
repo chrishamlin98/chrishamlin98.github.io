@@ -5,7 +5,7 @@ layout: page
 # Projects & Accolades
 ![Coding Set-Up](https://github.com/chrishamlin98/chrishamlin98.github.io/blob/master/assets/images/Coding_Screenshot_small.jpg?raw=true)
 
-## Swing GUI Log-In
+## Swing GUI Log-In in Java 8
 
 **Project Description:**  I designed this program for users to create user names and passwords in order to gain access to a database.  Further, it has been created using a model-view-controller (MVC) data structure and takes advantage of the use of database access objects (DAO) and a DAO Factory pattern in order to allow the integration of multiple database types.
 
@@ -44,6 +44,25 @@ layout: page
     </div>
   </div>
 </div>  
+
+## Rock, Paper, Scissors Game in Python 3
+
+**Project Description:**  This is a basic player vs. computer rock, paper, scissors game.  It creates its own simple GUI and it is basic enough to highlight the use of dictionaries rather than copious if-then statements.
+
+<div class="grid">
+  <div class="col-1-2">
+    <div class="content">
+      <ul>
+        <li><a href="https://raw.githubusercontent.com/chrishamlin98/rockpaperscissors/master/rock_paper_scissors.py">Application</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="col-1-2">
+    <div class="content">
+      <p><img src="/assets/images/MVC_app.png" alt="RPS app"></p>
+    </div>
+  </div>
+</div>
 
 ## Portfolio Website
 
