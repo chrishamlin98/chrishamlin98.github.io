@@ -20,6 +20,7 @@ layout: page
 	<li>Java 8.0</li>
 	<li>Java Swing Utilities</li>
 	<li>Java JDBC Integration</li>
+	<li>Python 3</li>
 	<li>MySQL</li>
 	<li>XAMPP</li>
 	<li>Jekyll using Ruby</li>
